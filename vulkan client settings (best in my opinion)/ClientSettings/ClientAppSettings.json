@@ -1,0 +1,7 @@
+{
+  "FFlagFixGraphicsQuality": "True",
+  "FLogNetwork": "7",
+  "DFIntTaskSchedulerTargetFps": "999999",
+  "DFIntCanHideGuiGroupId": "32380007",
+  "FFlagDebugGraphicsPreferVulkan": "True"
+}
